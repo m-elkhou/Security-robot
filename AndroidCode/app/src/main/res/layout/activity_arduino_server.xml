@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Arduino_Server" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1">
+
+        <Button
+            android:text="@string/ip_server_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/ip_server_btn"
+            android:background="@drawable/btn_states"
+            android:layout_margin="6dp"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/web_server_btn11"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="6dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_states"
+            android:text="@string/wifi_server_button" />
+
+        <Button
+            android:text="@string/client_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/client_btn"
+            android:layout_margin="6dp"
+            android:background="@drawable/btn_states"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <FrameLayout
+                android:id="@+id/senderPreview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="0dp"
+                android:layout_weight="0"
+                android:background="@drawable/btn_states"
+                android:padding="2dp"></FrameLayout>
+        </RelativeLayout>
+
+
+        <ScrollView
+            android:id="@+id/scroller"
+            android:layout_width="450dp"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_states"
+            android:padding="6dp">
+
+            <TextView
+                android:id="@+id/tvTopText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Serial control"
+                android:textSize="12dp" />
+        </ScrollView>
+
+    </LinearLayout>
+
+</RelativeLayout>
