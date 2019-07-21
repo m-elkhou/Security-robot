@@ -1,6 +1,5 @@
 # Robot de sécurité
-
-==> https://github.com/m-elkhou/Security-robot.git
+![Imgur](https://i.imgur.com/47WR7Ill.jpg)
 
 - La construction d’un robot Arduino (Smart car) de garde pour sécuriser les foyers contre les vols et la distribution du gaz.
 - La communication entre Arduino et une application Android via USB.
@@ -13,10 +12,8 @@ Ce dernier est relié avec la première application une fois la détection -soit
 il envoie un message à la deuxième application sur le téléphone de l’utilisateur,
 Dès que ce dernier est connecté il reçoit les informations afin de régler manuellement la situation.
 
-CopyRight:
-
-╔╦╗┌─┐┬ ┬┌─┐┌┬┐┌┬┐┌─┐┌┬┐  ╔═╗╦    ╦╔═╦ ╦╔═╗╦ ╦
-║║║│ │├─┤├─┤││││││├┤  ││  ║╣ ║    ╠╩╗╠═╣║ ║║ ║
-╩ ╩└─┘┴ ┴┴ ┴┴ ┴┴ ┴└─┘─┴┘  ╚═╝╩═╝  ╩ ╩╩ ╩╚═╝╚═╝
-
-m.elkhou@hotmail.com
+### Links
+- [E-mail](m.elkhou@hotmail.com)
+- [GitHub](https://github.com/m-elkhou)
+- [Linkedin](https://www.linkedin.com/in/m-elkhou/)
+==> https://github.com/m-elkhou/Security-robot.git
