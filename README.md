@@ -12,3 +12,11 @@ Le projet se base sur la communication entre deux applications Android a travers
 Ce dernier est relié avec la première application une fois la détection -soit du gaz soit de mouvement-, 
 il envoie un message à la deuxième application sur le téléphone de l’utilisateur,
 Dès que ce dernier est connecté il reçoit les informations afin de régler manuellement la situation.
+
+CopyRight:
+
+╔╦╗┌─┐┬ ┬┌─┐┌┬┐┌┬┐┌─┐┌┬┐  ╔═╗╦    ╦╔═╦ ╦╔═╗╦ ╦
+║║║│ │├─┤├─┤││││││├┤  ││  ║╣ ║    ╠╩╗╠═╣║ ║║ ║
+╩ ╩└─┘┴ ┴┴ ┴┴ ┴┴ ┴└─┘─┴┘  ╚═╝╩═╝  ╩ ╩╩ ╩╚═╝╚═╝
+
+m.elkhou@hotmail.com
