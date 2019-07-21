@@ -16,6 +16,6 @@ Dès que ce dernier est connecté il reçoit les informations afin de régler ma
 ***
 ### Links
 - [E-mail](m.elkhou@hotmail.com)
-- [GitHub](https://github.com/m-elkhou)
-- [Linkedin](https://www.linkedin.com/in/m-elkhou/)<br/>
+- [Linkedin](https://www.linkedin.com/in/m-elkhou/)
+- [GitHub](https://github.com/m-elkhou)<br/>
 => https://github.com/m-elkhou/Security-robot.git
