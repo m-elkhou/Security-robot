@@ -12,13 +12,17 @@ Ce dernier est relié avec la première application une fois la détection -soit
 il envoie un message à la deuxième application sur le téléphone de l’utilisateur,
 Dès que ce dernier est connecté il reçoit les informations afin de régler manuellement la situation.
 
-![](https://i.imgur.com/bCyKh6s.jpg)
+<div align="center">
+	<img src="Images/20190427_222244.jpg" width="820px" />
+	<img src="Images/IMG-20190415-WA0009.jpg" width="820px"/>
+</div>
 
 For more information about the project please read this [PowerPoint file](https://github.com/m-elkhou/Security-robot/raw/master/Presentation.pptx). 
 
 Screenshots of the application can be found in the [Wiki page](https://github.com/m-elkhou/Security-robot/wiki).
 
 ***
+
 ### Links
 - [E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
 - [Linkedin](https://www.linkedin.com/in/m-elkhou/)
